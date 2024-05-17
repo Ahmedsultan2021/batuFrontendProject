@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": "05d7",
+      "title": "test",
+      "desc": "test"
+    },
+    {
+      "id": "7dcb",
+      "title": "abd elazeem",
+      "desc": "test"
+    },
+    {
+      "id": "15c4",
+      "title": "",
+      "desc": ""
+    },
+    {
+      "id": "8709",
+      "title": "test",
+      "desc": "test"
+    },
+    {
+      "id": "4a37",
+      "title": "kareem",
+      "desc": "asdfghjkl;"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "ahmed",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "ahmed",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "ahmed",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "ahmed",
+      "email": "ahmed@gmail.com"
+    }
+  ]
+}
